@@ -1,3 +1,48 @@
+### Extensions
+
+[
+  ".page",
+  ".component",
+  ".cls",
+  ".object",
+  ".trigger",
+  ".layout",
+  ".resource",
+  ".remoteSite",
+  ".labels",
+  ".app",
+  ".dashboard",
+  ".permissionset",
+  ".workflow",
+  ".email",
+  ".profile",
+  ".scf",
+  ".queue",
+  ".reportType",
+  ".report",
+  ".weblink",
+  ".tab",
+  ".letter",
+  ".role",
+  ".homePageComponent",
+  ".homePageLayout",
+  ".objectTranslation",
+  ".flow",
+  ".datacategorygroup",
+  ".snapshot",
+  ".site",
+  ".sharingRules",
+  ".settings",
+  ".callCenter",
+  ".community",
+  ".authProvider",
+  ".customApplicationComponent",
+  ".quickAction",
+  ".approvalProcess",
+  ".html"
+]
+
+
 MavensMate for Atom (beta)
 ===============
 
